@@ -1,2 +1,12 @@
-﻿.openclaw/
+﻿*
+!.gitignore
+.openclaw/
 .consolidate-state.json
+AGENTS.md
+HEARTBEAT.md
+IDENTITY.md
+MEMORY.md
+SOUL.md
+TOOLS.md
+USER.md
+memory/
